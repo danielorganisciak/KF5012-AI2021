@@ -1,5 +1,0 @@
-name: practical1
-channels:
-  - conda-forge
-dependencies:
-  - numpy
