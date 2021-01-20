@@ -4,4 +4,5 @@ Welcome to the AI Stream of Software Engineering Practice! Code for all practica
 If you have any questions, our emails are:
 
 Matt: matthew.higgs@northumbria.ac.uk
+
 Dan: daniel.organisciak@northumbria.ac.uk
